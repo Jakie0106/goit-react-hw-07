@@ -1,0 +1,15 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid lightseagreen;
+  border-radius: 12px;
+  padding: 24px;
+  gap: 12px;
+  width: 300px;
+}
+
+.item {
+  border: 2px solid lightblue;
+  border-radius: 8px;
+  padding: 12px 16px;
+}
